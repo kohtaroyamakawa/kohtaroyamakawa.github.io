@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/diary/2021summerresearch/</loc>
+    <lastmod>2021-08-03T10:47:04-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/</loc>
-    <lastmod>2021-06-18T17:01:40-07:00</lastmod>
+    <lastmod>2021-08-03T10:47:04-07:00</lastmod>
   </url>
   
   <url>
@@ -24,6 +29,11 @@
   
   <url>
     <loc>/posts/taiko/performances/20210619-jiten-juneteenth/</loc>
+    <lastmod>2021-06-18T17:01:40-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/matsuri/</loc>
     <lastmod>2021-06-18T17:01:40-07:00</lastmod>
   </url>
   
@@ -49,6 +59,11 @@
   
   <url>
     <loc>/posts/taiko/performances/20210607-odaiko-solo/</loc>
+    <lastmod>2021-06-07T16:48:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/solo/</loc>
     <lastmod>2021-06-07T16:48:48-07:00</lastmod>
   </url>
   
@@ -89,6 +104,11 @@
   
   <url>
     <loc>/posts/taiko/performances/20210527-cutaiko/</loc>
+    <lastmod>2021-05-27T19:17:55-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/omiyage/</loc>
     <lastmod>2021-05-27T19:17:55-07:00</lastmod>
   </url>
   
@@ -170,6 +190,11 @@
   <url>
     <loc>/posts/diary/top5academia/</loc>
     <lastmod>2021-01-28T22:44:57-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/jack-bazaar/</loc>
+    <lastmod>2021-01-23T08:15:51-07:00</lastmod>
   </url>
   
   <url>
