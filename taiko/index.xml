@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taiko on </title>
-    <link>/taiko/</link>
+    <link>https://kohtaroyamakawa.github.io/taiko/</link>
     <description>Recent content in Taiko on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Dec 2020 14:32:51 -0800</lastBuildDate><atom:link href="/taiko/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Dec 2020 14:32:51 -0800</lastBuildDate><atom:link href="https://kohtaroyamakawa.github.io/taiko/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Performances</title>
-      <link>/taiko/performances/</link>
+      <link>https://kohtaroyamakawa.github.io/taiko/performances/</link>
       <pubDate>Sat, 30 Jan 2021 11:52:13 -0800</pubDate>
       
-      <guid>/taiko/performances/</guid>
+      <guid>https://kohtaroyamakawa.github.io/taiko/performances/</guid>
       <description>2021: January 23rd- Asano Taiko US Virtual Recital with Jack Bazaar Online
 2020: February 21st- East Coast Taiko Conference with CU Taiko
 2019: November 10th- Fall Taiko Festival</description>
