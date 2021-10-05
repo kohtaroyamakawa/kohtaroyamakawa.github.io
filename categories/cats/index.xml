@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cats on </title>
+    <link>https://kohtaroyamakawa.github.io/categories/cats/</link>
+    <description>Recent content in Cats on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Oct 2021 20:20:42 -0700</lastBuildDate><atom:link href="https://kohtaroyamakawa.github.io/categories/cats/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cats of Berkeley</title>
+      <link>https://kohtaroyamakawa.github.io/posts/diary/cats_of_berkeley/</link>
+      <pubDate>Mon, 04 Oct 2021 20:20:42 -0700</pubDate>
+      
+      <guid>https://kohtaroyamakawa.github.io/posts/diary/cats_of_berkeley/</guid>
+      <description>&amp;ldquo;I wish I could write as mysterious as a cat&amp;rdquo;
+Edgar Allan Poe
+   Sam lives on Rose and Cedar street
+      Sam enjoys pets and will stick out his tongue for you
+        </description>
+    </item>
+    
+  </channel>
+</rss>
