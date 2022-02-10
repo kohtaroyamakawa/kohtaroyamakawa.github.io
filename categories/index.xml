@@ -6,7 +6,16 @@
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://kohtaroyamakawa.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://kohtaroyamakawa.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Track</title>
+      <link>https://kohtaroyamakawa.github.io/categories/track/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kohtaroyamakawa.github.io/categories/track/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Math</title>
       <link>https://kohtaroyamakawa.github.io/categories/math/</link>
@@ -49,15 +58,6 @@
       <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://kohtaroyamakawa.github.io/categories/atus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Track</title>
-      <link>https://kohtaroyamakawa.github.io/categories/track/</link>
-      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://kohtaroyamakawa.github.io/categories/track/</guid>
       <description></description>
     </item>
     
