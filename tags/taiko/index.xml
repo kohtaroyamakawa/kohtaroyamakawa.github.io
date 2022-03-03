@@ -8,6 +8,27 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Dec 2020 14:32:51 -0800</lastBuildDate><atom:link href="https://kohtaroyamakawa.github.io/tags/taiko/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Taiko Sound</title>
+      <link>https://kohtaroyamakawa.github.io/posts/taiko/lessons/taiko-sound/</link>
+      <pubDate>Thu, 03 Mar 2022 00:49:22 -0800</pubDate>
+      
+      <guid>https://kohtaroyamakawa.github.io/posts/taiko/lessons/taiko-sound/</guid>
+      <description>The sound of the Taiko brings many people to it. Here&amp;rsquo;s a mini-session I taught Jiten Daiko on how I think about the sounds coming from Taiko. Hopefully I can prove these things that I have empircally found using some modeling (Bessel functions and waves on a boundary!) but we&amp;rsquo;ll see if I find the time.
+Breaking down the Sound    Thinking about the shape of a waveform and given the fact that we use the same instruments/bachi, I believe we can really only control the attack, the tail, and the chorus.</description>
+    </item>
+    
+    <item>
+      <title>Soloing Tips</title>
+      <link>https://kohtaroyamakawa.github.io/posts/taiko/lessons/soloing-tips/</link>
+      <pubDate>Thu, 03 Mar 2022 00:40:18 -0800</pubDate>
+      
+      <guid>https://kohtaroyamakawa.github.io/posts/taiko/lessons/soloing-tips/</guid>
+      <description>Here are a few tips and tricks to help you solo in Taiko.
+Johakyuu:    Johakyuu is a Japanese music and art aesthetic. It is about using the structure of: Soundscape, set tempo, climax, volta, rapid conclusion to guide a complete story.
+Repetition    Repeat the same motif eight times with slight variations so there is a continuation but also variety. Don&amp;rsquo;t move onto other things too fast and not communicate your ideas.</description>
+    </item>
+    
+    <item>
       <title>Yamakawa Presents: JackBeat</title>
       <link>https://kohtaroyamakawa.github.io/posts/taiko/tracks/jackbeat/</link>
       <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
@@ -18,10 +39,10 @@
     
     <item>
       <title>Teaching Taiko</title>
-      <link>https://kohtaroyamakawa.github.io/posts/taiko/teaching/</link>
+      <link>https://kohtaroyamakawa.github.io/posts/taiko/lessons/teaching/</link>
       <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://kohtaroyamakawa.github.io/posts/taiko/teaching/</guid>
+      <guid>https://kohtaroyamakawa.github.io/posts/taiko/lessons/teaching/</guid>
       <description>I have taught many times over my years of playing Taiko. There&amp;rsquo;s always difficulties surrounding teaching when it comes to (1) teaching according to people&amp;rsquo;s levels, (2) not overloading students with details, (3) making it fun.
 Teaching towards your students    Each student has their own collection of experiences. Some have taiko experiences, others have musical or dance training, and some have no experiences at all. While its often difficult trying to find a way to teach every student in a class, there is usually always some rudimentary skills that even veterans need to drill and always some territory of taiko that the student has yet to see.</description>
     </item>

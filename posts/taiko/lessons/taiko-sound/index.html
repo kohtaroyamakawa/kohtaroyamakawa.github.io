@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Language" content="en">
+    <meta name="color-scheme" content="light dark">
+
+    
+
+    <meta name="author" content="Koh Yamakawa">
+    <meta name="description" content="The sound of the Taiko brings many people to it. Here&rsquo;s a mini-session I taught Jiten Daiko on how I think about the sounds coming from Taiko. Hopefully I can prove these things that I have empircally found using some modeling (Bessel functions and waves on a boundary!) but we&rsquo;ll see if I find the time.
+Breaking down the Sound    Thinking about the shape of a waveform and given the fact that we use the same instruments/bachi, I believe we can really only control the attack, the tail, and the chorus.">
+    <meta name="keywords" content="physicist, taiko artist, coffee addict">
+
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Taiko Sound"/>
+<meta name="twitter:description" content="The sound of the Taiko brings many people to it. Here&rsquo;s a mini-session I taught Jiten Daiko on how I think about the sounds coming from Taiko. Hopefully I can prove these things that I have empircally found using some modeling (Bessel functions and waves on a boundary!) but we&rsquo;ll see if I find the time.
+Breaking down the Sound    Thinking about the shape of a waveform and given the fact that we use the same instruments/bachi, I believe we can really only control the attack, the tail, and the chorus."/>
+
+    <meta property="og:title" content="Taiko Sound" />
+<meta property="og:description" content="The sound of the Taiko brings many people to it. Here&rsquo;s a mini-session I taught Jiten Daiko on how I think about the sounds coming from Taiko. Hopefully I can prove these things that I have empircally found using some modeling (Bessel functions and waves on a boundary!) but we&rsquo;ll see if I find the time.
+Breaking down the Sound    Thinking about the shape of a waveform and given the fact that we use the same instruments/bachi, I believe we can really only control the attack, the tail, and the chorus." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://kohtaroyamakawa.github.io/posts/taiko/lessons/taiko-sound/" />
+<meta property="article:published_time" content="2022-03-03T00:49:22-08:00" />
+<meta property="article:modified_time" content="2022-03-03T00:49:22-08:00" />
+
+
+    <title>
+  Taiko Sound · 
+</title>
+
+    
+      <link rel="canonical" href="https://kohtaroyamakawa.github.io/posts/taiko/lessons/taiko-sound/">
+    
+
+    <link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.1.7" as="font" type="font/woff2" crossorigin>
+
+    
+      
+      
+      <link rel="stylesheet" href="/css/coder.min.eb7743f94930acfd17146aecc1f80e86fe35b3e451f2ec0c98485f9c4d962f34.css" integrity="sha256-63dD&#43;UkwrP0XFGrswfgOhv41s&#43;RR8uwMmEhfnE2WLzQ=" crossorigin="anonymous" media="screen" />
+    
+
+    
+
+    
+
+    
+
+    
+
+    <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+    
+
+    <meta name="generator" content="Hugo 0.79.1" />
+  </head>
+
+  
+  
+  <body class="preload-transitions colorscheme-light"
+        onload=""
+  >
+    
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+    <main class="wrapper">
+      <head>
+  
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-198567669-2', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+  
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-198567669-2', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+    
+</head>
+<nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="/">
+      
+    </a>
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/">Home</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/about">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/posts">Blog</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/tags/taiko/">Taiko</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="https://kohtaroyamakawa.github.io/posts/taiko/lessons/taiko-sound/">
+              Taiko Sound
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa fa-calendar" aria-hidden="true"></i>
+              <time datetime='2022-03-03T00:49:22-08:00'>
+                March 3, 2022
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa fa-clock-o" aria-hidden="true"></i>
+              4-minute read
+            </span>
+          </div>
+          
+          <div class="categories">
+  <i class="fa fa-folder" aria-hidden="true"></i>
+    <a href="/categories/lessons/">Lessons</a></div>
+
+          <div class="tags">
+  <i class="fa fa-tag" aria-hidden="true"></i>
+    <a href="/tags/taiko/">Taiko</a>
+      <span class="separator">•</span>
+    <a href="/tags/jiten-daiko/">Jiten Daiko</a></div>
+
+        </div>
+      </header>
+
+      <div>
+        
+        <p>The sound of the Taiko brings many people to it.  Here&rsquo;s a mini-session I taught Jiten Daiko on how I think about the sounds coming from Taiko.  Hopefully I can prove these things that I have empircally found using some modeling (Bessel functions and waves on a boundary!)  but we&rsquo;ll see if I find the time.</p>
+<h1 id="breaking-down-the-sound">
+  Breaking down the Sound
+  <a class="heading-link" href="#breaking-down-the-sound">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h1>
+<p>Thinking about the shape of a waveform and given the fact that we use the same instruments/bachi, I believe we can really only control the attack, the tail, and the chorus.  Perhaps the perceived volume is independent of that but I have yet to see if I can control them all separately.</p>
+<p>The attack is the first sound we hear from bachi impacting the drums, controlled a lot by our wrists and the speed of our arm.</p>
+<p>The tail is the sound we hear after the attack.  Sometimes there is more than one tail sound (this is what many western audience seem to perceive as the &lsquo;pitch&rsquo; of the instrument).  This seems to come from the head resonating, reacting to the drum resonance.</p>
+<p>The chorus is the grit that comes out of the drum sound.  It is often heard most by hitting closer to the center and harder.  I believe this comes from the body of the drum resonating because I hear it coming through the drum but that may be an oversimplifcation: perhaps we cannot think of different parts of the sound coming from just one part of the drum.</p>
+<h1 id="breaking-the-drum-sound">
+  Breaking the Drum Sound
+  <a class="heading-link" href="#breaking-the-drum-sound">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h1>
+<p>This is when we play the drum too hard.  I believe it is when the attack is louder than most of the tail and we cannot hear the tail as much.  When I hear someone playing too hard, I hear almost no tail which makes me think that the applied force is far stronger and drives the other frequencies to scatter and relax quicker in time (this is very physicsy so I apologize if that doesn&rsquo;t make any sense).</p>
+<h1 id="elements-of-hitting-bachi">
+  Elements of hitting: Bachi
+  <a class="heading-link" href="#elements-of-hitting-bachi">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h1>
+<p>This can be heard by playing a bachi on a drum pad.  The bachi also resonates, albeit very high pitched.  This can usually not be heard by the drum but I know it affects the sound you make overall.  It is easily heard when you have two bachi of differing weights, thus differing pitches so that &lsquo;straight&rsquo; beat hitting sounds very lopsided.</p>
+<h1 id="elements-of-hitting-angle">
+  Elements of hitting: Angle
+  <a class="heading-link" href="#elements-of-hitting-angle">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h1>
+<p>Hitting the drum in various angles changes the sound (what we usually say is a glancing sound).  The most &lsquo;solid&rsquo; sound that resonates the drum the most is a hit perpendicular to the surface of the drum.  You can also hit different parts of the drum as the same time: See the gank in Kris Bergstrom&rsquo;s style of playing and his excellent <a href="https://taikosource.com/song-database/kuchishoga-periodic-table/">periodic table of sound</a>.</p>
+<h1 id="parts-of-the-drum-to-hit">
+  Parts of the drum to hit
+  <a class="heading-link" href="#parts-of-the-drum-to-hit">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h1>
+<p>Body, Rim, Head close to rim, inner rim (where chorus becomes noticable, varies depending on drum), near center (largest sound), and center (high pitch if its Asano and the cow spine is there).</p>
+<h1 id="hitting-non-head-parts-of-the-drum">
+  Hitting non-head parts of the drum:
+  <a class="heading-link" href="#hitting-non-head-parts-of-the-drum">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h1>
+<p>Hitting the outside part of the shime makes the shime sing more than hitting the actual rim.  I don&rsquo;t know why but will guess that the rim is made of heavy metal that resonates the sound better and helps the entire head resonate together more.  Unsure</p>
+<h1 id="effective-sound--choreography">
+  Effective Sound:  Choreography
+  <a class="heading-link" href="#effective-sound--choreography">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h1>
+<p>Choreography tells the audience when the sound starts or ends.  Elongate or shorten before, during, or after the hit, to change the length of a hit.</p>
+<h1 id="effective-sound-shibari">
+  Effective Sound: Shibari
+  <a class="heading-link" href="#effective-sound-shibari">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h1>
+<p>Notice that Shibari is a choreographic thing.  Tightness comes from our motion and not from the sound.</p>
+<h1 id="recording">
+  Recording
+  <a class="heading-link" href="#recording">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h1>
+<p>Recordings won&rsquo;t pick up half of these things.  They usually pick up three or four of these sounds at best.  A good recording usually has 4 different sounds playing at once.  You can tell the difference between drums by comparing other shime sounds in Taiko videos</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/YXEiYAz7anY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>vs. Isaku&rsquo;s shime in this clip.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/b2xJNHMOji8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h1 id="weird-stuff-i-havent-figure-out-yet">
+  Weird stuff I haven&rsquo;t figure out yet
+  <a class="heading-link" href="#weird-stuff-i-havent-figure-out-yet">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h1>
+<ul>
+<li>
+<p>Physical origin of hte tail and chorus sound comes from.</p>
+</li>
+<li>
+<p>Hitting the outside part of the shime makes the shime sing more than hitting the actual rim.  Why tho</p>
+</li>
+<li>
+<p>The part in Rei where we hit uptop and then drop down.  Is the sound different because of the angle of the bachi?  Or is just a perceived difference by our body langauge?</p>
+</li>
+<li>
+<p>when you hit the rim with varying parts of the bachi as you hold it, is that darker sound coming from the rim or the bachi?  I want to say from the rim, but then I have no reason why the rim resonantes at a pitch that is higher when you hit with the tips of your bachi.</p>
+</li>
+</ul>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+      </div>
+
+      
+  <footer class="footer">
+    <section class="container">
+      
+      
+        ©
+        
+        2022
+         Koh Yamakawa 
+      
+      
+         · 
+        Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
+      
+      
+    </section>
+  </footer>
+
+
+    </main>
+
+    
+      
+      <script src="/js/coder.min.f92783b4545b68f3523e5d6ad91d93f76818f9d0db2ffa13bda31b6119cde62b.js" integrity="sha256-&#43;SeDtFRbaPNSPl1q2R2T92gY&#43;dDbL/oTvaMbYRnN5is="></script>
+    
+
+    
+
+    
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-198567669-2', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+  </body>
+
+</html>
