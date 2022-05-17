@@ -8,6 +8,46 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Dec 2020 21:25:48 -0800</lastBuildDate><atom:link href="https://kohtaroyamakawa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Year 2: March</title>
+      <link>https://kohtaroyamakawa.github.io/posts/diary/year2_march/</link>
+      <pubDate>Sat, 23 Apr 2022 18:04:30 -0700</pubDate>
+      
+      <guid>https://kohtaroyamakawa.github.io/posts/diary/year2_march/</guid>
+      <description>The Technical side    I have a huge project in the works with Ryan and James. I hope it will be out on arxiv before I head off to NYC on May 14th. It&amp;rsquo;s so exciting that I am spending a lot of time in Lab making sure I get measurements in and getting clean data. The computational projects using DFT or my readings have been pushed out of the way to get this project through.</description>
+    </item>
+    
+    <item>
+      <title>Composition Process</title>
+      <link>https://kohtaroyamakawa.github.io/posts/taiko/composition/</link>
+      <pubDate>Sat, 26 Mar 2022 01:39:48 -0700</pubDate>
+      
+      <guid>https://kohtaroyamakawa.github.io/posts/taiko/composition/</guid>
+      <description>Composition is a part ofm y Taiko Journey that I &amp;rsquo;ve only recently embarked on. I&amp;rsquo;ve learned from many teachers what composition is and have gotten into composing myself: on my DAW, Taiko, or for my ensemble Jiten Daiko. Here&amp;rsquo;s my favorite advice I find myself thinking about a lot.
+Just start    Don&amp;rsquo;t be delicate about the composition process. It&amp;rsquo;s just like writing a diary entry to typing out a sentence.</description>
+    </item>
+    
+    <item>
+      <title>Year 2: February</title>
+      <link>https://kohtaroyamakawa.github.io/posts/diary/year2_feb/</link>
+      <pubDate>Fri, 18 Mar 2022 23:13:29 -0800</pubDate>
+      
+      <guid>https://kohtaroyamakawa.github.io/posts/diary/year2_feb/</guid>
+      <description>February was quite a wild ride.
+The Technical side    I really learned a ton of things here: In January, I focused on preparing samples for transport measurements while in February, I (re) learned how to do all the experiments I did in the past: Magnetization, transport (on a rotator), heat capacity, and even PXRD. Remembering the basics and how each one fits into a puzzle helped me figure out what I was looking for.</description>
+    </item>
+    
+    <item>
+      <title>The Myth of Topology</title>
+      <link>https://kohtaroyamakawa.github.io/posts/physics/myth_of_topology/</link>
+      <pubDate>Fri, 18 Mar 2022 07:36:19 -0700</pubDate>
+      
+      <guid>https://kohtaroyamakawa.github.io/posts/physics/myth_of_topology/</guid>
+      <description>Let me be clear. I like topology. And I like how it rears its head in materials.
+It has led to the most striking advances in all of condensed matter (Fractional Quantum Hall) and has led to paradigms that allow us to understand things a lot better. BUT, at the same time: it has set ablaze a firestorm of buzz words with little coherency.
+Here&amp;rsquo;s all the ways I know about topology in condensed matter: I&amp;rsquo;m going to rant a bit here.</description>
+    </item>
+    
+    <item>
       <title>Taiko Sound</title>
       <link>https://kohtaroyamakawa.github.io/posts/taiko/lessons/taiko-sound/</link>
       <pubDate>Thu, 03 Mar 2022 00:49:22 -0800</pubDate>
@@ -29,6 +69,16 @@ Repetition    Repeat the same motif eight times with slight variations so there 
     </item>
     
     <item>
+      <title>Year 2: January</title>
+      <link>https://kohtaroyamakawa.github.io/posts/diary/year2_jan/</link>
+      <pubDate>Fri, 18 Feb 2022 23:13:29 -0800</pubDate>
+      
+      <guid>https://kohtaroyamakawa.github.io/posts/diary/year2_jan/</guid>
+      <description>And we&amp;rsquo;re back! Came back from almost a month break during which I played Taiko in LA, went to Ohio, and got covid&amp;hellip; so no science. Popped back in and hit the ground running pushing projects and getting used to doing research full time.
+It feels great being able to accomplish and read things but it feels as if I run around all day making things happen and have one hour of concentrated work a day.</description>
+    </item>
+    
+    <item>
       <title>Not giving a F: Professionally</title>
       <link>https://kohtaroyamakawa.github.io/posts/dgaf/</link>
       <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
@@ -38,11 +88,39 @@ Repetition    Repeat the same motif eight times with slight variations so there 
     </item>
     
     <item>
-      <title>Yamakawa Presents: JackBeat</title>
-      <link>https://kohtaroyamakawa.github.io/posts/taiko/tracks/jackbeat/</link>
+      <title>Yamakawa Composes: Hyakujyuu no Ou</title>
+      <link>https://kohtaroyamakawa.github.io/posts/taiko/compositions/hyakujyuunoou/</link>
       <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://kohtaroyamakawa.github.io/posts/taiko/tracks/jackbeat/</guid>
+      <guid>https://kohtaroyamakawa.github.io/posts/taiko/compositions/hyakujyuunoou/</guid>
+      <description>   Background    Hyakujyuu no Ou is the first song composed for and by Columbia University Taiko. It is a celebration of Taiko in New York featuring our strengths of athletic Yokouchi (horizontal playing) playing and set (Dimitri Godur). It utilizes Hachijo style Taiko like movements on a lower stand, inspired both by Hayashi Eitetsu&amp;rsquo;s Umi no Houjou and KODO&amp;rsquo;s rendition of Miyake
+Structure     Intro A * 4 (A + B)*4 C Solos Speed Up Ending  </description>
+    </item>
+    
+    <item>
+      <title>Yamakawa Composes: Umihure</title>
+      <link>https://kohtaroyamakawa.github.io/posts/taiko/compositions/umihure/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kohtaroyamakawa.github.io/posts/taiko/compositions/umihure/</guid>
+      <description>   Structure     Intro Fure + Going On + Fure Right Hand Space Left Hand Space Split Fure + Going On Mix Ending  Tutorials        </description>
+    </item>
+    
+    <item>
+      <title>Yamakawa Composes: Zubon</title>
+      <link>https://kohtaroyamakawa.github.io/posts/taiko/compositions/zubon/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kohtaroyamakawa.github.io/posts/taiko/compositions/zubon/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Yamakawa Presents: JackBeat</title>
+      <link>https://kohtaroyamakawa.github.io/posts/taiko/compositions/jackbeat/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kohtaroyamakawa.github.io/posts/taiko/compositions/jackbeat/</guid>
       <description>Short Piece with parts of Jack Bazaar By Kris Bergstrom.</description>
     </item>
     
@@ -184,6 +262,16 @@ Today is good.</description>
     </item>
     
     <item>
+      <title>Choosing an advisor</title>
+      <link>https://kohtaroyamakawa.github.io/posts/diary/choosing_an_advisor/</link>
+      <pubDate>Thu, 14 Oct 2021 12:01:18 -0700</pubDate>
+      
+      <guid>https://kohtaroyamakawa.github.io/posts/diary/choosing_an_advisor/</guid>
+      <description>It was surprisingly difficult choosing an advisor in my PhD.
+I was choosing between two advisors: James Analytis and Michael Zaletel. They are both wonderful professors with great ideas. Academically speaking, I could not go wrong. In terms of personality, they were quite different. James is outgoing, nice, and very gregarious while Mike was less relaxed but very concentrated on his work. When talking to either of them, I could almost their wealth of knowledge was almost overwhelming.</description>
+    </item>
+    
+    <item>
       <title>Cats of Berkeley</title>
       <link>https://kohtaroyamakawa.github.io/posts/diary/cats_of_berkeley/</link>
       <pubDate>Mon, 04 Oct 2021 20:20:42 -0700</pubDate>
@@ -203,6 +291,17 @@ Edgar Allan Poe
       
       <guid>https://kohtaroyamakawa.github.io/posts/diary/year2_sep/</guid>
       <description>Academically    This month, I spent my time doing a rotation with Mike Zaletel. I looked into Density Matrix Renormalization Group (DMRG) method and topological order in the fractional quantum hall effect. I started to see how computationally nice one dimensional models are, how computationally hard two dimensional models are, and how hard three dimensions is. It fills me with a little sadness to know how hard it is to model three dimensional models.</description>
+    </item>
+    
+    <item>
+      <title>College Pandtimemic</title>
+      <link>https://kohtaroyamakawa.github.io/posts/diary/college-pandtimemic/</link>
+      <pubDate>Mon, 27 Sep 2021 21:53:50 -0700</pubDate>
+      
+      <guid>https://kohtaroyamakawa.github.io/posts/diary/college-pandtimemic/</guid>
+      <description>During Pandemic    I wrote the following during the pandemic, in the summer of 2020.
+_College graduation is supposed to be a landmark time. Pandemic&amp;rsquo;s are too. Having both at the same time was a bitch.
+Being in college is always different. I felt the need of finding that 25th hour of the day and worked day and night with so little sleep that I would snooze at least once a class.</description>
     </item>
     
     <item>

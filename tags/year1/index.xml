@@ -6,16 +6,7 @@
     <description>Recent content in Year1 on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Sep 2021 16:32:45 -0700</lastBuildDate><atom:link href="https://kohtaroyamakawa.github.io/tags/year1/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Year 2: September</title>
-      <link>https://kohtaroyamakawa.github.io/posts/diary/year2_sep/</link>
-      <pubDate>Thu, 30 Sep 2021 16:32:45 -0700</pubDate>
-      
-      <guid>https://kohtaroyamakawa.github.io/posts/diary/year2_sep/</guid>
-      <description>Academically    This month, I spent my time doing a rotation with Mike Zaletel. I looked into Density Matrix Renormalization Group (DMRG) method and topological order in the fractional quantum hall effect. I started to see how computationally nice one dimensional models are, how computationally hard two dimensional models are, and how hard three dimensions is. It fills me with a little sadness to know how hard it is to model three dimensional models.</description>
-    </item>
-    
+    <lastBuildDate>Tue, 23 Feb 2021 00:25:34 -0800</lastBuildDate><atom:link href="https://kohtaroyamakawa.github.io/tags/year1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Year 1: February</title>
       <link>https://kohtaroyamakawa.github.io/posts/diary/year1_feb/</link>

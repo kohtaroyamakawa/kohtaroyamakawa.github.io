@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Physics on </title>
+    <link>https://kohtaroyamakawa.github.io/tags/physics/</link>
+    <description>Recent content in Physics on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Mar 2022 07:36:19 -0700</lastBuildDate><atom:link href="https://kohtaroyamakawa.github.io/tags/physics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Myth of Topology</title>
+      <link>https://kohtaroyamakawa.github.io/posts/physics/myth_of_topology/</link>
+      <pubDate>Fri, 18 Mar 2022 07:36:19 -0700</pubDate>
+      
+      <guid>https://kohtaroyamakawa.github.io/posts/physics/myth_of_topology/</guid>
+      <description>Let me be clear. I like topology. And I like how it rears its head in materials.
+It has led to the most striking advances in all of condensed matter (Fractional Quantum Hall) and has led to paradigms that allow us to understand things a lot better. BUT, at the same time: it has set ablaze a firestorm of buzz words with little coherency.
+Here&amp;rsquo;s all the ways I know about topology in condensed matter: I&amp;rsquo;m going to rant a bit here.</description>
+    </item>
+    
+  </channel>
+</rss>

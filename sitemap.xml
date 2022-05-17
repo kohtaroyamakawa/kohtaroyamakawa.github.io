@@ -3,13 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kohtaroyamakawa.github.io/tags/berkeley/</loc>
+    <lastmod>2022-04-23T18:04:30-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kohtaroyamakawa.github.io/posts/</loc>
-    <lastmod>2022-03-03T00:49:22-08:00</lastmod>
+    <lastmod>2022-04-23T18:04:30-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://kohtaroyamakawa.github.io/categories/</loc>
-    <lastmod>2022-03-03T00:49:22-08:00</lastmod>
+    <lastmod>2022-04-23T18:04:30-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kohtaroyamakawa.github.io/tags/covid/</loc>
+    <lastmod>2022-04-23T18:04:30-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kohtaroyamakawa.github.io/categories/phd/</loc>
+    <lastmod>2022-04-23T18:04:30-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kohtaroyamakawa.github.io/tags/</loc>
+    <lastmod>2022-04-23T18:04:30-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kohtaroyamakawa.github.io/posts/diary/year2_march/</loc>
+    <lastmod>2022-04-23T18:04:30-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kohtaroyamakawa.github.io/tags/year2/</loc>
+    <lastmod>2022-04-23T18:04:30-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kohtaroyamakawa.github.io/tags/composition/</loc>
+    <lastmod>2022-03-26T01:39:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kohtaroyamakawa.github.io/posts/taiko/composition/</loc>
+    <lastmod>2022-03-26T01:39:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kohtaroyamakawa.github.io/posts/diary/year2_feb/</loc>
+    <lastmod>2022-03-18T23:13:29-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kohtaroyamakawa.github.io/tags/physics/</loc>
+    <lastmod>2022-03-18T07:36:19-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kohtaroyamakawa.github.io/posts/physics/myth_of_topology/</loc>
+    <lastmod>2022-03-18T07:36:19-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kohtaroyamakawa.github.io/categories/topology/</loc>
+    <lastmod>2022-03-18T07:36:19-07:00</lastmod>
   </url>
   
   <url>
@@ -23,11 +83,6 @@
   </url>
   
   <url>
-    <loc>https://kohtaroyamakawa.github.io/tags/</loc>
-    <lastmod>2022-03-03T00:49:22-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kohtaroyamakawa.github.io/posts/taiko/lessons/taiko-sound/</loc>
     <lastmod>2022-03-03T00:49:22-08:00</lastmod>
   </url>
@@ -35,6 +90,11 @@
   <url>
     <loc>https://kohtaroyamakawa.github.io/posts/taiko/lessons/soloing-tips/</loc>
     <lastmod>2022-03-03T00:40:18-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kohtaroyamakawa.github.io/posts/diary/year2_jan/</loc>
+    <lastmod>2022-02-18T23:13:29-08:00</lastmod>
   </url>
   
   <url>
@@ -58,7 +118,22 @@
   </url>
   
   <url>
-    <loc>https://kohtaroyamakawa.github.io/posts/taiko/tracks/jackbeat/</loc>
+    <loc>https://kohtaroyamakawa.github.io/posts/taiko/compositions/hyakujyuunoou/</loc>
+    <lastmod>2021-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kohtaroyamakawa.github.io/posts/taiko/compositions/umihure/</loc>
+    <lastmod>2021-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kohtaroyamakawa.github.io/posts/taiko/compositions/zubon/</loc>
+    <lastmod>2021-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kohtaroyamakawa.github.io/posts/taiko/compositions/jackbeat/</loc>
     <lastmod>2021-12-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -158,11 +233,6 @@
   </url>
   
   <url>
-    <loc>https://kohtaroyamakawa.github.io/categories/phd/</loc>
-    <lastmod>2021-10-14T12:01:43-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kohtaroyamakawa.github.io/categories/research/</loc>
     <lastmod>2021-10-14T12:01:43-07:00</lastmod>
   </url>
@@ -178,8 +248,8 @@
   </url>
   
   <url>
-    <loc>https://kohtaroyamakawa.github.io/tags/berkeley/</loc>
-    <lastmod>2021-10-04T20:20:42-07:00</lastmod>
+    <loc>https://kohtaroyamakawa.github.io/posts/diary/choosing_an_advisor/</loc>
+    <lastmod>2021-10-14T12:01:18-07:00</lastmod>
   </url>
   
   <url>
@@ -193,18 +263,23 @@
   </url>
   
   <url>
-    <loc>https://kohtaroyamakawa.github.io/tags/covid/</loc>
-    <lastmod>2021-09-30T16:32:45-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kohtaroyamakawa.github.io/posts/diary/year2_sep/</loc>
     <lastmod>2021-09-30T16:32:45-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kohtaroyamakawa.github.io/tags/year1/</loc>
-    <lastmod>2021-09-30T16:32:45-07:00</lastmod>
+    <loc>https://kohtaroyamakawa.github.io/posts/diary/college-pandtimemic/</loc>
+    <lastmod>2021-09-27T21:53:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kohtaroyamakawa.github.io/categories/columbia/</loc>
+    <lastmod>2021-09-27T21:53:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kohtaroyamakawa.github.io/categories/undergrad/</loc>
+    <lastmod>2021-09-27T21:53:50-07:00</lastmod>
   </url>
   
   <url>
@@ -363,12 +438,12 @@
   </url>
   
   <url>
-    <loc>https://kohtaroyamakawa.github.io/categories/undergrad/</loc>
-    <lastmod>2021-02-26T10:51:43-08:00</lastmod>
+    <loc>https://kohtaroyamakawa.github.io/posts/diary/year1_feb/</loc>
+    <lastmod>2021-02-23T00:25:34-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kohtaroyamakawa.github.io/posts/diary/year1_feb/</loc>
+    <loc>https://kohtaroyamakawa.github.io/tags/year1/</loc>
     <lastmod>2021-02-23T00:25:34-08:00</lastmod>
   </url>
   
