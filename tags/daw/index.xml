@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://kohtaroyamakawa.github.io/tags/daw/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Yamakawa Composes: Hyakujyuu no Ou</title>
+      <title>Composition: Hyakujyuu no Ou</title>
       <link>https://kohtaroyamakawa.github.io/posts/taiko/compositions/hyakujyuunoou/</link>
       <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
       
@@ -18,7 +18,16 @@ Structure     Intro A * 4 (A + B)*4 C Solos Speed Up Ending  </description>
     </item>
     
     <item>
-      <title>Yamakawa Composes: Umihure</title>
+      <title>Composition: JackBeat</title>
+      <link>https://kohtaroyamakawa.github.io/posts/taiko/compositions/jackbeat/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kohtaroyamakawa.github.io/posts/taiko/compositions/jackbeat/</guid>
+      <description>Short Piece with parts of Jack Bazaar By Kris Bergstrom.</description>
+    </item>
+    
+    <item>
+      <title>Composition: Umihure</title>
       <link>https://kohtaroyamakawa.github.io/posts/taiko/compositions/umihure/</link>
       <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
       
@@ -27,21 +36,12 @@ Structure     Intro A * 4 (A + B)*4 C Solos Speed Up Ending  </description>
     </item>
     
     <item>
-      <title>Yamakawa Composes: Zubon</title>
+      <title>Composition: Zubon</title>
       <link>https://kohtaroyamakawa.github.io/posts/taiko/compositions/zubon/</link>
       <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://kohtaroyamakawa.github.io/posts/taiko/compositions/zubon/</guid>
       <description>   </description>
-    </item>
-    
-    <item>
-      <title>Yamakawa Presents: JackBeat</title>
-      <link>https://kohtaroyamakawa.github.io/posts/taiko/compositions/jackbeat/</link>
-      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://kohtaroyamakawa.github.io/posts/taiko/compositions/jackbeat/</guid>
-      <description>Short Piece with parts of Jack Bazaar By Kris Bergstrom.</description>
     </item>
     
   </channel>
