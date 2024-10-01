@@ -4,7 +4,7 @@
     <title>Lessons on </title>
     <link>https://kohtaroyamakawa.github.io/categories/lessons/</link>
     <description>Recent content in Lessons on </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Mar 2022 00:49:22 -0800</lastBuildDate>
     <atom:link href="https://kohtaroyamakawa.github.io/categories/lessons/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>https://kohtaroyamakawa.github.io/posts/taiko/lessons/taiko-sound/</link>
       <pubDate>Thu, 03 Mar 2022 00:49:22 -0800</pubDate>
       <guid>https://kohtaroyamakawa.github.io/posts/taiko/lessons/taiko-sound/</guid>
-      <description>The sound of the Taiko brings many people to it. Here&amp;rsquo;s a mini-session I taught Jiten Daiko on how I think about the sounds coming from Taiko. Hopefully I can prove these things that I have empircally found using some modeling (Bessel functions and waves on a boundary!) but we&amp;rsquo;ll see if I find the time.&#xA;Breaking down the Sound Thinking about the shape of a waveform and given the fact that we use the same instruments/bachi, I believe we can really only control the attack, the tail, and the chorus.</description>
+      <description>&lt;p&gt;The sound of the Taiko brings many people to it.  Here&amp;rsquo;s a mini-session I taught Jiten Daiko on how I think about the sounds coming from Taiko.  Hopefully I can prove these things that I have empircally found using some modeling (Bessel functions and waves on a boundary!)  but we&amp;rsquo;ll see if I find the time.&lt;/p&gt;&#xA;&lt;h1 id=&#34;breaking-down-the-sound&#34;&gt;&#xA;  Breaking down the Sound&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#breaking-down-the-sound&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Thinking about the shape of a waveform and given the fact that we use the same instruments/bachi, I believe we can really only control the attack, the tail, and the chorus.  Perhaps the perceived volume is independent of that but I have yet to see if I can control them all separately.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

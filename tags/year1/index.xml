@@ -4,7 +4,7 @@
     <title>Year1 on </title>
     <link>https://kohtaroyamakawa.github.io/tags/year1/</link>
     <description>Recent content in Year1 on </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Feb 2021 00:25:34 -0800</lastBuildDate>
     <atom:link href="https://kohtaroyamakawa.github.io/tags/year1/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>https://kohtaroyamakawa.github.io/posts/diary/year1_feb/</link>
       <pubDate>Tue, 23 Feb 2021 00:25:34 -0800</pubDate>
       <guid>https://kohtaroyamakawa.github.io/posts/diary/year1_feb/</guid>
-      <description>Some new things happened this week. I got permissions to start work at LBNL and on campus.&#xA;My became aware of the fantastic world of fractons, finally figured out what Tomonaga Luttinger liqudis were, and became more familiar with the Kitaev model. I&amp;rsquo;ve found myself getting more and more interested in 2D materials and finding out the connection between quantum spin liquids and other strongly correlated systems like unconventional superconductors. I am interested in how abelian/non-abelian anyons may come out of kitaev spin liquids and how they are related to the fact that the QSL must be described by a Conformal Field Theory with central charge c&amp;lt;1/2.</description>
+      <description>&lt;p&gt;Some new things happened this week.&#xA;I got permissions to start work at LBNL and on campus.&lt;/p&gt;&#xA;&lt;p&gt;My became aware of the fantastic world of fractons, finally figured out what Tomonaga Luttinger liqudis were, and became more familiar with the Kitaev model.  I&amp;rsquo;ve found myself getting more and more interested in 2D materials and finding out the connection between quantum spin liquids and other strongly correlated systems like unconventional superconductors.&#xA;I am interested in how abelian/non-abelian anyons may come out of kitaev spin liquids and how they are related to the fact that the QSL must be described by a Conformal Field Theory with central charge c&amp;lt;1/2.  While I am aware of the way permutations in majorana fermions may lead to a matrix which can encode a Non-abelian anyon, I don&amp;rsquo;t understand how that physically manifests itself inside a system.  How do you create an anyon?  How real are majorana fermions?  I think many of these questions are experimental questions and can&amp;rsquo;t wait to see more inside topological order.  I think more reading on toric code and plaquette operators will bring me better understanding&amp;hellip; we&amp;rsquo;ll see!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
